@@ -1,0 +1,33 @@
+body {
+  background: rgb(240, 149, 237);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: large;
+}
+header {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+section {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  background: rgb(255, 249, 249);
+  border-radius: 15px;
+  padding: 8px;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.383);
+}
+div {
+  padding: 8px;
+  width: 500px;
+  margin: auto;
+}
+
+Footer {
+  color: whitesmoke;
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+}
